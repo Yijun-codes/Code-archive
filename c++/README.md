@@ -14,7 +14,7 @@ I have written codes for several mini-game programs, a lite work timer, and a se
   + The player who first forms a line of four or more of his/her discs wins.
   + The game is a draw when the board is full but no player wins.
     
-+ Mini-game 3: [```Gomoku```](https://github.com/Yijun-codes/Code-archive/tree/main/c%2B%2B/Comoku)
++ Mini-game 3: [```Gomoku```](https://github.com/Yijun-codes/Code-archive/tree/main/c%2B%2B/Gomoku)
   + Starting with an empty N x N square board.
   + Two players take turns putting discs on the board.
   + The player who first forms a line of five or more consecutive discs wins.
@@ -27,7 +27,7 @@ I have written codes for several mini-game programs, a lite work timer, and a se
   + The goal of the first player is to form a chain of his/her pieces connecting the left and right border of the board, while the goal of the second player is to form a chain of his/her pieces connecting the top and bottom border of the board.
   + The player who first achieves his/her goal is the winner (no draw game).
     
-+ Self-implemented Stack for RPN evaluation: [```RPN_calc```](https://github.com/Yijun-codes/Code-archive/tree/main/c%2B%2B/RPN_calc)
++ Self-implemented Stack for RPN evaluation: [```Stack(RPN_calculation)```](https://github.com/Yijun-codes/Code-archive/tree/main/c%2B%2B/Stack)
   + First, I implemented a Stack with a class, which supports pop and push functions and stores a sequence of values in the last-in-first-out order.
   + Then, as a small challenge, I wrote a client program to apply the Stack class to evaluate the postfix notation or reverse polish notation (RPN).
   + If the input is a legal RPN, the program returns the value. Otherwise, print out errors and exit.
