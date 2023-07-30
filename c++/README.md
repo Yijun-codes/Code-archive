@@ -28,7 +28,7 @@ I have written codes for several mini-game programs, a lite work timer, and a se
   + The player who first achieves his/her goal is the winner (no draw game).
     
 + Self-implemented Stack for RPN evaluation: [```Stack(RPN_calculation)```](https://github.com/Yijun-codes/Code-archive/tree/main/c%2B%2B/Stack)
-  + First, I implemented a Stack with a class, which supports pop and push functions and stores a sequence of values in the last-in-first-out order.
+  + First, I implemented a small Stack (200 maximum entries) with a class, which supports pop and push functions and stores a sequence of values in the last-in-first-out order.
   + Then, as a small challenge, I wrote a client program to apply the Stack class to evaluate the postfix notation or reverse polish notation (RPN).
   + If the input is a legal RPN, the program returns the value. Otherwise, print out errors and exit.
     
