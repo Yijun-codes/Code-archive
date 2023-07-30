@@ -9,4 +9,4 @@ There are two ready-to-use Python pipelines to analyze genomic sequencing and tr
   2. For the verified sequences, it preprocesses them to filter too-short sequences and remove gaps or inaccessible segments (the letter 'N' or 'n') in the DNA sequence.
   3. Show the longest common subsequence between the input sequences, which is useful to judge if the RNA sequence is transcripted from the DNA sequence.
 
-Should you have any questions, please contact [Yijun Liao](yijun8909@gmail.com)
+Should you have any questions, please [contact me](yijun8909@gmail.com)
