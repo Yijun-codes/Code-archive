@@ -37,4 +37,4 @@ I have written codes for several mini-game programs, a lite work timer, and a se
   + It supports 'pause' and 'resume' functions so that I can precisely record the time I spent on my work/study.
   + When the program is terminated, it will output all records (including when I start the job, when I pause/resume it, and how long in total I spend on it) into a daily log file.
 
-Should you have any questions about the programs, please contact [Yijun Liao](yijun8909@gmail.com)
+Should you have any questions about the programs, please [contact me](yijun8909@gmail.com)
